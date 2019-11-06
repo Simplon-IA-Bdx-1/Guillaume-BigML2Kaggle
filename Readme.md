@@ -205,6 +205,6 @@ kaggle.api.competition_submit(kaggle_prediction_file, "commentaire sur ma predic
 
 ## Jupyter Notebook Pro 8 : Utilisation de l'environement
 
-
+Télécharger fichier `Handson-ml` et effectuer un `docker-compose up` en ligne de commande afin de monter l'environnement Jupyter accessible grace au navigateur à l'adresse `localhost:8888`(par défaut).
 
 
